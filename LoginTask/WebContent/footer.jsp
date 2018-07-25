@@ -57,7 +57,6 @@
                 <li><a href="#">개인정보처리방침 </a></li>
                 <li><a href="#">책임의 한계와 법적고지 </a></li>
                 <li><a href="#">회원정보 고객센터</a></li>
-                <li><a href="#">류인혜가 만듬</a></li>
             </ul>
  
             <img src="img/footernaver.JPG">
